@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Hena1234/Hena1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hena1234&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Hena1234&show_icons=true">
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
