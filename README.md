@@ -7,4 +7,4 @@
 - 🌱 Currently learning JavaScript, Node.js, React.js, Redux, and React Native
 - 😄 Pronouns: she/her
 - ❤️ I enjoy designing and coding in my free time, and I also love climbing.
-
+- 📧 Email: hyeonpark84@gmail.com / dram0709567@gmail.com
