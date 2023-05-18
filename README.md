@@ -1,4 +1,4 @@
-### Hi there👋, I'm Hena Park who is a recent graduate with a passion for becoming a web developer and creating innovative and user-friendly web experiences.
+### Hi there👋, I'm Hena Park who is a recent graduate with a passion for becoming a Front-End developer and creating innovative and user-friendly web experiences.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hena1234&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Hena1234&show_icons=true">
