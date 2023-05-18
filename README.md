@@ -2,7 +2,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hena1234&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Hena1234&show_icons=true">
-Here are some ideas to get you started:
 
 - 🎓 College student studying computer programming
 - 🌱 Currently learning JavaScript, Node.js, React.js, Redux, and React Native
