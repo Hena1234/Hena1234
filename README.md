@@ -2,7 +2,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hena1234&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Hena1234&show_icons=true">
+
 
 ## I am an aspiring software developer who likes to codes!
 - 🎓 College student study computer programming
