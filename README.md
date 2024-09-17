@@ -4,7 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hena1234&layout=compact"><br><br>
 
 
-## I am an aspiring software developer who likes to code!
 - 🎓 College student study computer programming
 - 😄 Pronouns: she/her
 - ❤️ I enjoy designing and coding in my free time, and I also love climbing.
